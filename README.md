@@ -3,7 +3,7 @@
 ### Profa. Dra. Lilian Berton
 
 ## Alunos:
-### Larissa Adelino Ângelo Rosa - 163.879
+### Larissa Adelino Ângelo Rosa - RA: 163.879
 ### Pedro Ernesto Duarte Pilchowski - RA: 156.331
 
 # Como executar:
