@@ -1,3 +1,5 @@
+# Special thanks for the creators of [https://github.com/Archaeocomputers/Bessarion]Bessarion dataset for making this project possible!
+
 # Reconhecimento de letras Gregas com CNNs e Transformers
 ## Trabalho Final de Inteligência Artificial - UNIFESP
 ### Profa. Dra. Lilian Berton
