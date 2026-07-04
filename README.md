@@ -1,4 +1,4 @@
-# Special thanks for the creators of [https://github.com/Archaeocomputers/Bessarion]Bessarion dataset for making this project possible!
+# Special thanks for the creators of [Bessarion](https://github.com/Archaeocomputers/Bessarion) dataset for making this project possible!
 
 # Reconhecimento de letras Gregas com CNNs e Transformers
 ## Trabalho Final de Inteligência Artificial - UNIFESP
